@@ -1,0 +1,76 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Cecília Tavares",
+      "cpf": "123.456.789-00",
+      "email": "teste@gmail.com",
+      "senha": "987654"
+    },
+    {
+      "id": "3",
+      "nome": "Carolina Menezes",
+      "cpf": "123.456.789-00",
+      "email": "teste@gmail.com",
+      "senha": "987654"
+    },
+    {
+      "id": "529d",
+      "nome": "Dai",
+      "cpf": "51618181",
+      "email": "Daiane2kk@gmail.com",
+      "senha": "999999"
+    },
+    {
+      "id": "4df4",
+      "nome": "Dai",
+      "cpf": "8282828",
+      "email": "Dso8@discente.ifpe.edu. br",
+      "senha": "987"
+    },
+    {
+      "id": "f2ff",
+      "nome": "Dai",
+      "cpf": "666666",
+      "email": "Dso8@discente.ifpe.edu",
+      "senha": "123"
+    },
+    {
+      "id": "6af8",
+      "nome": "Dai",
+      "cpf": "18272727",
+      "email": "Dso8@discente.ifpe.edu",
+      "senha": "123"
+    }
+  ],
+  "contatos": [
+    {
+      "nome": "Messias Acacy JR",
+      "telefone": "(81) 91234-5678",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "Messias Acacy JR",
+      "email": "teste05@gmail.com",
+      "telefone": "(81) 91234-5678"
+    },
+    {
+      "nome": "Oiiiiiiii5",
+      "telefone": "Ywhwhw",
+      "id": "c760"
+    },
+    {
+      "nome": "Daiii",
+      "telefone": "8820",
+      "id": "2837"
+    },
+    {
+      "id": "2865",
+      "nome": "Juliana",
+      "telefone": "9q8q8q8",
+      "email": "Jrs50@discente.ifpe.edu.br"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
